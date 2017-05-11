@@ -1,0 +1,3 @@
+[submodule "GatkSnpIndels"]
+	path = GatkSnpIndels
+	url = git@github.com:REGOVAR/Pirus_PipeGatkSnpIndels.git
