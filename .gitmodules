@@ -1,8 +1,0 @@
-[submodule "GatkSnpIndels"]
-	path = GatkSnpIndels
-	url = git@github.com:REGOVAR-Pipelines/Pirus_PipeGatkSnpIndels.git
-	branch = master
-[submodule "Annotation_test"]
-	path = Annotation_test
-	url = git@github.com:REGOVAR-Pipelines/Annotation_test.git
-	branch = master
